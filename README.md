@@ -1,7 +1,7 @@
 # Hackaton_Codered_2025
 for hackaton purpose 
 Team members:Srikanth.S  Nishanth.P    Ramya Ramadoss    Gomathi Lakshmi G
-Here’s a complete, professional `README.md` file for your StudySync project, designed for GitHub and suitable for hackathons, MVPs, and public demos.
+
 
 # StudySync – Personalized Study Group Matcher
 
